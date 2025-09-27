@@ -46,7 +46,6 @@ require (
 	github.com/klauspost/compress v1.17.9 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.6 // indirect
 	github.com/klauspost/reedsolomon v1.12.3 // indirect
-	github.com/lufia/plan9stats v0.0.0-20211012122336-39d0f177ccd0 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/mdlayher/netlink v1.7.2 // indirect
 	github.com/mdlayher/socket v0.4.1 // indirect
@@ -61,7 +60,7 @@ require (
 	github.com/metacubex/gvisor v0.0.0-20250919004547-6122b699a301 // indirect
 	github.com/metacubex/kcp-go v0.0.0-20250923001605-1ba6f691c45b // indirect
 	github.com/metacubex/nftables v0.0.0-20250503052935-30a69ab87793 // indirect
-	github.com/metacubex/quic-go v0.54.1-0.20250730114134-a1ae705fe295 // indirect
+	github.com/metacubex/quic-go v0.54.1-0.20250926001022-e2a3ce003b3a // indirect
 	github.com/metacubex/randv2 v0.2.0 // indirect
 	github.com/metacubex/restls-client-go v0.1.7 // indirect
 	github.com/metacubex/sing v0.5.6 // indirect

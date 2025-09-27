@@ -83,8 +83,6 @@ github.com/klauspost/cpuid/v2 v2.2.6 h1:ndNyv040zDGIDh8thGkXYjnFtiN02M1PVVF+JE/4
 github.com/klauspost/cpuid/v2 v2.2.6/go.mod h1:Lcz8mBdAVJIBVzewtcLocK12l3Y+JytZYpaMropDUws=
 github.com/klauspost/reedsolomon v1.12.3 h1:tzUznbfc3OFwJaTebv/QdhnFf2Xvb7gZ24XaHLBPmdc=
 github.com/klauspost/reedsolomon v1.12.3/go.mod h1:3K5rXwABAvzGeR01r6pWZieUALXO/Tq7bFKGIb4m4WI=
-github.com/lufia/plan9stats v0.0.0-20211012122336-39d0f177ccd0 h1:6E+4a0GO5zZEnZ81pIr0yLvtUWk2if982qA3F3QD6H4=
-github.com/lufia/plan9stats v0.0.0-20211012122336-39d0f177ccd0/go.mod h1:zJYVVT2jmtg6P3p1VtQj7WsuWi/y4VnjVBn7F8KPB3I=
 github.com/mailru/easyjson v0.7.7 h1:UGYAvKxe3sBsEDzO8ZeWOSlIQfWFlxbzLZe7hwFURr0=
 github.com/mailru/easyjson v0.7.7/go.mod h1:xzfreul335JAWq5oZzymOObrkdz5UnU4kGfJJLY9Nlc=
 github.com/mdlayher/netlink v1.7.2 h1:/UtM3ofJap7Vl4QWCPDGXY8d3GIY2UGSDbK+QWmY8/g=
@@ -113,8 +111,8 @@ github.com/metacubex/kcp-go v0.0.0-20250923001605-1ba6f691c45b h1:z7JLKjugnQ1qvD
 github.com/metacubex/kcp-go v0.0.0-20250923001605-1ba6f691c45b/go.mod h1:HIJZW4QMhbBqXuqC1ly6Hn0TEYT2SzRw58ns1yGhXTs=
 github.com/metacubex/nftables v0.0.0-20250503052935-30a69ab87793 h1:1Qpuy+sU3DmyX9HwI+CrBT/oLNJngvBorR2RbajJcqo=
 github.com/metacubex/nftables v0.0.0-20250503052935-30a69ab87793/go.mod h1:RjRNb4G52yAgfR+Oe/kp9G4PJJ97Fnj89eY1BFO3YyA=
-github.com/metacubex/quic-go v0.54.1-0.20250730114134-a1ae705fe295 h1:8JVlYuE8uSJAvmyCd4TjvDxs57xjb0WxEoaWafK5+qs=
-github.com/metacubex/quic-go v0.54.1-0.20250730114134-a1ae705fe295/go.mod h1:1lktQFtCD17FZliVypbrDHwbsFSsmz2xz2TRXydvB5c=
+github.com/metacubex/quic-go v0.54.1-0.20250926001022-e2a3ce003b3a h1:l7BWjOifmqM2zMi+AMrgIx1z4KJt0oY/6cHW11kA9IQ=
+github.com/metacubex/quic-go v0.54.1-0.20250926001022-e2a3ce003b3a/go.mod h1:1lktQFtCD17FZliVypbrDHwbsFSsmz2xz2TRXydvB5c=
 github.com/metacubex/randv2 v0.2.0 h1:uP38uBvV2SxYfLj53kuvAjbND4RUDfFJjwr4UigMiLs=
 github.com/metacubex/randv2 v0.2.0/go.mod h1:kFi2SzrQ5WuneuoLLCMkABtiBu6VRrMrWFqSPyj2cxY=
 github.com/metacubex/restls-client-go v0.1.7 h1:eCwiXCTQb5WJu9IlgYvDBA1OgrINv58dEe7hcN5H15k=
@@ -197,11 +195,6 @@ github.com/stretchr/testify v1.8.0/go.mod h1:yNjHg4UonilssWZ8iaSj1OCr/vHnekPRkoO
 github.com/stretchr/testify v1.8.4/go.mod h1:sz/lmYIOXD/1dqDmKjjqLyZ2RngseejIcXlSw2iwfAo=
 github.com/stretchr/testify v1.9.0/go.mod h1:r2ic/lqez/lEtzL7wO/rwa5dbSLXVDPFyf8C91i36aY=
 github.com/stretchr/testify v1.11.1 h1:7s2iGBzp5EwR7/aIZr8ao5+dra3wiQyKjjFuvgVKu7U=
-github.com/tiendc/go-deepcopy v1.6.1 h1:uVRTItFeNHkMcLueHS7OCsxgxT9P8MzGB/taUa2Y4Tk=
-github.com/tklauser/go-sysconf v0.3.12 h1:0QaGUFOdQaIVdPgfITYzaTegZvdCjmYO52cSFAEVmqU=
-github.com/tklauser/go-sysconf v0.3.12/go.mod h1:Ho14jnntGE1fpdOqQEEaiKRpvIavV0hSfmBq8nJbHYI=
-github.com/tklauser/numcpus v0.6.1 h1:ng9scYS7az0Bk4OZLvrNXNSAO2Pxr1XXRAPyjhIx+Fk=
-github.com/tklauser/numcpus v0.6.1/go.mod h1:1XfjsgE2zo8GVw7POkMbHENHzVg3GzmoZ9fESEdAacY=
 github.com/u-root/uio v0.0.0-20230220225925-ffce2a382923 h1:tHNk7XK9GkmKUR6Gh8gVBKXc2MVSZ4G/NnWLtzw4gNA=
 github.com/u-root/uio v0.0.0-20230220225925-ffce2a382923/go.mod h1:eLL9Nub3yfAho7qB0MzZizFhTU2QkLeoVsWdHtDW264=
 github.com/vishvananda/netlink v1.1.0/go.mod h1:cTgwzPIzzgDAYoQrMm0EdrjRUBkTqKYppBueQtXaqoE=
@@ -216,8 +209,6 @@ github.com/vmihailenco/tagparser/v2 v2.0.0/go.mod h1:Wri+At7QHww0WTrCBeu4J6bNtoV
 github.com/wk8/go-ordered-map/v2 v2.1.8 h1:5h/BUHu93oj4gIdvHHHGsScSTMijfx5PeYkE/fJgbpc=
 github.com/wk8/go-ordered-map/v2 v2.1.8/go.mod h1:5nJHM5DyteebpVlHnWMV0rPz6Zp7+xBAnxjb1X5vnTw=
 github.com/xtaci/lossyconn v0.0.0-20190602105132-8df528c0c9ae h1:J0GxkO96kL4WF+AIT3M4mfUVinOCPgf2uUWYFUzN0sM=
-github.com/yusufpapurcu/wmi v1.2.4 h1:zFUKzehAFReQwLys1b/iSMl+JQGSCSjtVqQn9bBrPo0=
-github.com/yusufpapurcu/wmi v1.2.4/go.mod h1:SBZ9tNy3G9/m5Oi98Zks0QjeHVDvuK0qfxQmPyzfmi0=
 gitlab.com/go-extension/aes-ccm v0.0.0-20230221065045-e58665ef23c7 h1:UNrDfkQqiEYzdMlNsVvBYOAJWZjdktqFE9tQh5BT2+4=
 gitlab.com/go-extension/aes-ccm v0.0.0-20230221065045-e58665ef23c7/go.mod h1:E+rxHvJG9H6PUdzq9NRG6csuLN3XUx98BfGOVWNYnXs=
 gitlab.com/yawning/bsaes.git v0.0.0-20190805113838-0a714cd429ec h1:FpfFs4EhNehiVfzQttTuxanPIT43FtkkCFypIod8LHo=
